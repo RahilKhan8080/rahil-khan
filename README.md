@@ -43,7 +43,7 @@ I'm a **Server Support Engineer L2** at **DHL Express India Pvt Ltd (Mumbai Head
 
 ---
 
-### 🔹 Service Desk Engineer L2 — Tech Mahindra Business Services Pvt Ltd
+### 🔹 DEsktop Support Engineer L2 — Tech Mahindra Business Services Pvt Ltd
 **July 2021 – Jan 2025 | Mumbai, India**
 
 - Managed L2 remote and desk-side technical support for **3,000+ workstations** under enterprise domain '3GLOBALSERVICES'
