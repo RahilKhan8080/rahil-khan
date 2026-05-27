@@ -70,12 +70,6 @@ CertificationIssuerYear✅ ITIL v4 FoundationAXELOS2024✅ Microsoft 365 Certifi
 🥇 Best Employee of the Month — November 2021
 
 
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahil-khan&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahil-khan&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
-</p>
-
 📬 Get In Touch
 
 📧 Email: Khanrahil8975@gmail.com
